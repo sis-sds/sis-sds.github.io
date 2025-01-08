@@ -2568,6 +2568,8 @@
 			float: left;
 			padding: 0 1.5em 1em 0;
 			top: 0.25em;
+                        width: 150px; /* Dimensione fissa */
+                        height: 150px; /* Altezza uguale alla larghezza */
 		}
 
 		.image.right {
